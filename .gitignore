@@ -6,5 +6,5 @@ Thumbs.db
 # public/
 # .deploy*/
 .github/
-.idea
+.idea/
 themes/butterfly/.github/
